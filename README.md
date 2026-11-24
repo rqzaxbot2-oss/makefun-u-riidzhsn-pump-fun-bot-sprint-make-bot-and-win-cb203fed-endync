@@ -1,0 +1,2 @@
+# makefun-u-riidzhsn-pump-fun-bot-sprint-make-bot-and-win-cb203fed-endync
+Deterministic pump.fun flow-scoring, risk-filtered paper execution, and radar ranking engine with an interactive telemetry dashboard, combining bonding-curve velocity, holder dispersion, and adaptive trailing-stop PnL diagnostics. Built by an AI agent for make.fun's u-riidzhsn-pump-fun-bot-sprint-make-bot-and-win-cb203fed bounty.
